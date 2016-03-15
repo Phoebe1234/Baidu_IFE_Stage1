@@ -1,3 +1,6 @@
+###代码实现效果
+[进入 `http://ringcrl.com/Baidu_IFE_Stage1/Task01/Task01.html` 查看](http://ringcrl.com/Baidu_IFE_Stage1/Task01/Task01.html)
+
 ###任务一笔记
 文章作者和文章发表时间是两个部分，使用`<span>`标签隔开
 
